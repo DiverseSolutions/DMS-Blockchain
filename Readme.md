@@ -23,6 +23,6 @@ Hyperledger Fabric -г Kubernetes ашиглаж ажлуулах боломжт
 #### [Next.js](https://nextjs.org/)
 Хэрэглэгчийн интэрфейс хөгжүүлэлт
 
-## Архитектур
+## Зохиомж
 
 ![Architecture](https://raw.githubusercontent.com/DiverseSolutions/DMS-Blockchain/main/images/architecture.jpg)
