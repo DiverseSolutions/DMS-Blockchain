@@ -13,7 +13,7 @@ One-way function буюу параметрүүдийг ашиглан хариу
 
 ## Технологийн шийдэл
 
-#### [Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-2.5)
+#### [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
 
 Hyperledger Fabric нь аж ахуй нэгжийн хэрэгцээг хангахуйц, нээлттэй эх бүхий удирдлагат DLT платформ юм.
 
