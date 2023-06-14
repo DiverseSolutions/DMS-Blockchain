@@ -25,3 +25,4 @@ Hyperledger Fabric -г Kubernetes ашиглаж ажлуулах боломжт
 
 ## Архитектур
 
+![Architecture](https://raw.githubusercontent.com/DiverseSolutions/DMS-Blockchain/main/images/architecture.jpg)
